@@ -24,8 +24,8 @@ natural-language course/preference parsing and the schedule comparison
 explanations.
 
 **As a development assistant:** Claude (Anthropic), Doubao, and GitHub Copilot was used throughout
-development and were used throughout development for debugging Gradio/API/git
-issues, drafting and reviewing the calendar rendering fix, the
+development for debugging Gradio/API/git issues, 
+drafting and reviewing the calendar rendering fix, the
 Haversine-based walk-time calculation, the CSV/Excel import feature,
 and the comparative schedule-scoring explanation function.
 
